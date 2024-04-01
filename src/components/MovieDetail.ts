@@ -11,6 +11,7 @@ import { CONSTANT_URL } from '../constant/api';
 class MovieDetail extends BaseModal {
   constructor() {
     super();
+
     this.onMovieClick();
   }
 
